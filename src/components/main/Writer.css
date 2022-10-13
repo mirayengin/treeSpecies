@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+
+.card {
+    width: 30%;
+    min-width: 200px;
+    max-width: 400px;
+    margin: 10px;
+    text-align: center;
+    background-color: cadetblue;
+    padding: 15px;
+    height: 480px;
+    overflow: hidden;
+}
+
+.card:hover .card-text{
+    transition: all 1s;
+    transform: translateY(-435%);
+}
+
+
+
+.card-text {
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Macondo Swash Caps', cursive;
+    font-weight: bolder;
+    height: 100px;
+    width: 100%;
+    color:ghostwhite;
+    text-shadow: 5px 5px 5px black;
+}
+
+.titleDiv {
+    width: 100%;
+    font-family: 'New Rocker', cursive;
+    background-color:coral;
+    border-radius: 15px;
+}
+
+.imgDiv {
+    margin: 15px 0px;
+    height: 90%;
+    width: 100%;
+
+}
+
+.card-img-top {
+    height: 400px;
+    width: 100%;
+    border-radius: 15px;
+}
