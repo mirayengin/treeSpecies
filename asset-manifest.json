@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/treeSpecies/static/css/main.b5f6e25c.css",
+    "main.js": "/treeSpecies/static/js/main.51b25d6e.js",
+    "index.html": "/treeSpecies/index.html",
+    "main.b5f6e25c.css.map": "/treeSpecies/static/css/main.b5f6e25c.css.map",
+    "main.51b25d6e.js.map": "/treeSpecies/static/js/main.51b25d6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f6e25c.css",
+    "static/js/main.51b25d6e.js"
+  ]
+}
