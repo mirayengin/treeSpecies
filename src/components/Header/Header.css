@@ -4,14 +4,14 @@
 
 
 .header {
-    width: 97.8%;
+    width: 97.5%;
     background-color: black;
     color: green;
     text-align: center;
     font-size: 2rem;
     font-family: 'Macondo Swash Caps', cursive;
-    padding: 20px;
-    margin: 0px 15px;
+    padding: 10px;
+    /* margin: 0px 15px; */
     text-shadow: 5px 5px 5px white;
 }
 
