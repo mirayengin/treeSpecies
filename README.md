@@ -1,4 +1,4 @@
-# Project : Template
+# Project : treeSpecies
 
 ## Check The Live Website ➡️ [Live Website](https://mirayengin-treespecies.netlify.app)
 
