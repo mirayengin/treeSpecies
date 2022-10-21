@@ -4,7 +4,7 @@ const Writer = (props) => {
   const { title, desc, image } = props;
 
   return (
-    <div className="col-4 card">
+    <div className="col-md-4 col-lg-3 card">
       <div className="titleDiv">
         <h1>{title}</h1>
       </div>
