@@ -35,15 +35,22 @@ Image Gellery Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
-│    │       ├── Homepage.jsx
+│    │       ├── Header
+│    |       |     |── Header.jsx
+│    |       |     |── Header.css
+│    │       ├── Main
+│    |       |     |── Card.jsx
+│    |       |     |── Card.css
+│    |       |     |── Write.jsx
+│    |       |     |── Write.css
 │    ├── helper
 │    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    |
 │    ├── App.js
+|    |── App.css
 │    ├── index.js
+│    ├── index.css
+│    ├── AnimationTreeSpecials.gif
 └── package.json
 ```
 
